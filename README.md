@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Wasekar 🌟</h1>
 <h3 align="center">“Transforming ideas into reality 🚀”</h3>
-<img alt="Coder GIF" align="right" height=250 width=350 src="![image](https://github.com/user-attachments/assets/fed323b1-12f7-4bf2-aed9-a88f70f2f4d3)
-" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswasekar&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswasekar" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development 🌐.**
